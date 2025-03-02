@@ -1,5 +1,12 @@
 # EA Node.js + TypeScript + Mongoose
 
+## Fonts:
+- Documents i vídeos a Atenea
+- https://www.mongodb.com/docs/manual/core/aggregation-pipeline/
+- https://mongoosejs.com/docs/typescript.html
+- https://mongoosejs.com/docs/typescript/populate.html
+- https://mongoosejs.com/docs/populate.html
+
 ## Requisitos Previos
 
 Asegúrate de tener instalados los siguientes programas en tu sistema:
